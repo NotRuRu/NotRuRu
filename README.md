@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">👋 Hallooo!</h1>
 <h3 align="left">I'm NotRuRu,but people usually call me RuRu ☝️🤓
 <br>
- <br> anyways I am a Software Developer, Video/Photo  Editor and mega Music Enjoyer, like seriously, I cant go a hour without having music on. I also enjoy working out 💪</br>
+ <br> anyways I am a Software Developer, Video/Photo  Editor and mega Music Enjoyer, like seriously, I cant go an hour without having music on. I also enjoy working out 💪</br>
 </br>
 </h3>
 
