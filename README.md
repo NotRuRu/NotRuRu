@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h2> Me Do What Now? 👀 </h2>
 <p>I am currently working on Minecraft Mod and Website for Discord Sever cuz why not.
 
-<h2>Need Help?🌱 </h2>
-
 <div>
-       <img src="https://github.com/NotRuRu/NotRuRu/assets/92341439/7a3c0924-1bd3-4a50-8616-e2c4510ab43e" alt="Discord at NotRuRu">
+       
   <p> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Java-040404?"/> <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=adobepremierepro"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=adobephotoshop"/> </p>
 </div>
