@@ -2,17 +2,19 @@
 NotRuRu/NotRuRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>👋 Hallooo!</h1>
-<h3>I'm NotRuRu,but people usually call me RuRu ☝️🤓
-<br>
- <br> anyways I am a Software Developer, Video/Photo  Editor, somedays Twitch Streamer and mega Music Enjoyer, like seriously, I cant go an hour without having music on. I also enjoy working out 💪</br>
-</br>
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=606468&text=NotRuRu&textBg=false&fontColor=FFF" alt="header">
+</p>
+<h1 align="center">👋 Helloo, I'm NotRuRu, but people usually call me RuRu</h1>
+<p align="center">I am a Software/Game Developer, I also enjoy working out 💪</p>
 
-<h2> Me Do What Now? 👀 </h2>
-<p>I am currently working on Minecraft Mod and Website for Discord Sever cuz why not.
 
-<div>
-       
-  <p> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Java-040404?"/> <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=adobepremierepro"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=adobephotoshop"/> </p>
-</div>
+## <p align="center">My skills 😌</p>
+<p align="center">Currently studying C# and Blender while learning game development in Unity. Also studying Java For Minecraft modding👌 </p>
+
+## <p align="center">☝️🤓"Languages" and Tools I use🤓👆</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,unity,cs,java,php,html,css,vscode,visualstudio,idea" />
+  </a>
+</p>    
