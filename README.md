@@ -3,9 +3,9 @@ NotRuRu/NotRuRu is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=606468&text=NotRuRu&textBg=false&fontColor=FFF" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=606468&text=RuRu&textBg=false&fontColor=FFF" alt="header">
 </p>
-<h1 align="center">👋 Helloo, I'm NotRuRu, but people usually call me RuRu</h1>
+<h1 align="center">👋 Helloo, RuRu</h1>
 <p align="center">I am a Software/Game Developer, I also enjoy working out 💪</p>
 
 
